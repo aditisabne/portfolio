@@ -1,16 +1,26 @@
-# My Portfolio Wesbite - Overview 🚀
+# My Portfolio Website 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This repository contains the source code for my personal portfolio website.
 
-## Instructions 🛠️
+## 🌐 Live Portfolio
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+[Visit My Portfolio](https://portfolio-rouge-gamma-96.vercel.app)
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## 🛠️ Tech Stack
 
-![Portfolio-Preview](public/images/preview.png)
+- React
+- TypeScript
+- GSAP
+- Three.js
+- WebGL
+- HTML
+- CSS
+- JavaScript
 
-## License
+## 📌 About
+
+This portfolio website showcases my skills, projects, experience, and contact information.
+
+## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
