@@ -1,26 +1,8 @@
-# My Portfolio Website 🚀
+# My Portfolio Wesbite - Overview 🚀
 
-This repository contains the source code for my personal portfolio website.
+This repository contains the open source version of my porfolio website.
+Do check it out!
 
-## 🌐 Live Portfolio
-
-[Visit My Portfolio](https://portfolio-rouge-gamma-96.vercel.app)
-
-## 🛠️ Tech Stack
-
-- React
-- TypeScript
-- GSAP
-- Three.js
-- WebGL
-- HTML
-- CSS
-- JavaScript
-
-## 📌 About
-
-This portfolio website showcases my skills, projects, experience, and contact information.
-
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
