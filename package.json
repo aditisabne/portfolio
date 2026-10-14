@@ -6,7 +6,8 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build src/index.html --dist-dir dist --public-url /simplefolio/"
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./",
+    "serve": "serve dist"
   },
   "repository": {
     "type": "git",
